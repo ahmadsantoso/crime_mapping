@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404375516706",
+    "firebase_url": "https://crime-mapping-firebase.firebaseio.com",
+    "project_id": "crime-mapping-firebase",
+    "storage_bucket": "crime-mapping-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404375516706:android:cb0513c7d011a3e1f6bc7b",
+        "android_client_info": {
+          "package_name": "com.example.crime_mapping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404375516706-ru3j834ev3i8ta3qljbf5qocd6f0l8rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Rq2iN7Ix0cxdGJOP3vEehW5jj_nr-Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404375516706-ru3j834ev3i8ta3qljbf5qocd6f0l8rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
